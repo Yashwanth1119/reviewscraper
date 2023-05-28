@@ -1,2 +1,3 @@
-# material-for-mkdocs
-Material for mkdocs
+# Review Scraper
+A review scraper using python.
+
